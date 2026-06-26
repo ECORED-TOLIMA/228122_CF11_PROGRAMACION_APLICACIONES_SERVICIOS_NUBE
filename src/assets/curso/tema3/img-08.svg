@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+  <g id="Grupo_1188609" data-name="Grupo 1188609" transform="translate(-383.67 -8399.924)">
+    <circle id="Elipse_13890" data-name="Elipse 13890" cx="48" cy="48" r="48" transform="translate(383.67 8399.924)" fill="#5a9ad7"/>
+    <path id="Intersección_1" data-name="Intersección 1" d="M0,47.89A47.893,47.893,0,0,1,79.511,11.92L1.1,58.131A48,48,0,0,1,0,47.89Z" transform="translate(383.779 8400.031)" fill="#19538d"/>
+    <path id="Trazado_1032916" data-name="Trazado 1032916" d="M40,0A40,40,0,1,1,0,40,40,40,0,0,1,40,0Z" transform="translate(391.67 8407.924)" fill="#e6f3ff"/>
+    <g id="almacenamiento-en-la-nube_1_" data-name="almacenamiento-en-la-nube (1)" transform="translate(408.985 8425.239)">
+      <path id="Trazado_1032498" data-name="Trazado 1032498" d="M35.939,4.149a10.294,10.294,0,0,0-2.3.26,14.835,14.835,0,0,0-23.47,3.129A8.614,8.614,0,0,0,3.878,23.2V13.618H17.35V7.4h2.706v6.223h6.064V10.662l-.847.847L23.36,9.595l4.112-4.112,4.113,4.112-1.913,1.914-.848-.848v2.957H42.3v8.79a10.237,10.237,0,0,0-6.358-18.26Z" transform="translate(0)" fill="#12263f"/>
+      <path id="Trazado_1032499" data-name="Trazado 1032499" d="M95.241,187.764H92.536V181H86.472v3.5l.847-.847,1.913,1.914-4.112,4.112-4.113-4.112,1.913-1.914.848.848V181H73v17.009h33.008V181H95.241Z" transform="translate(-66.416 -164.676)" fill="#12263f"/>
+      <path id="Trazado_1032500" data-name="Trazado 1032500" d="M73,403.243H88.151v3.788H81.207v2.706H97.8v-2.706H90.857v-3.788h15.151V399.6H73Z" transform="translate(-66.416 -363.562)" fill="#12263f"/>
+    </g>
+  </g>
+</svg>

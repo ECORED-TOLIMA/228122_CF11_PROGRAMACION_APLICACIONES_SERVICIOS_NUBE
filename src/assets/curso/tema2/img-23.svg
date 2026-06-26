@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="130" viewBox="0 0 130 130">
+  <g id="Grupo_1188601" data-name="Grupo 1188601" transform="translate(-186 -9253.863)">
+    <g id="Grupo_1188415" data-name="Grupo 1188415" transform="translate(186 9253.862)">
+      <circle id="Elipse_13890" data-name="Elipse 13890" cx="65" cy="65" r="65" transform="translate(130 130) rotate(180)" fill="#7dbfff"/>
+      <path id="Intersección_3" data-name="Intersección 3" d="M0,61.621,107.4,0A65.086,65.086,0,0,1,43.784,78.57,64.8,64.8,0,0,1,0,61.621Z" transform="translate(21.185 51.43)" fill="#19538d"/>
+      <path id="Trazado_1032950" data-name="Trazado 1032950" d="M54.541,0A54.541,54.541,0,1,1,0,54.541,54.541,54.541,0,0,1,54.541,0Z" transform="translate(119.541 119.518) rotate(180)" fill="#d5f4f8"/>
+      <path id="Intersección_2" data-name="Intersección 2" d="M0,54.575A54.544,54.544,0,0,1,108.536,46.8L20.977,97.592A54.5,54.5,0,0,1,0,54.575Z" transform="translate(10.46 10.435)" fill="#fff"/>
+      <g id="computadora-portatil_1_" data-name="computadora-portatil (1)" transform="translate(31.426 -24.939)">
+        <path id="Trazado_1032353" data-name="Trazado 1032353" d="M32.164,99.007V63.426h-.555a7.8,7.8,0,0,0-7.8,7.8V99.008h8.351Z" transform="translate(-20.438 0)" fill="#12263f"/>
+        <path id="Trazado_1032354" data-name="Trazado 1032354" d="M42.146,346.118q0-.843.08-1.672H2.2a2.2,2.2,0,0,0-2.2,2.2,8.034,8.034,0,0,0,8.034,8.034H44.4a17.241,17.241,0,0,1-2.251-8.559Z" transform="translate(0 -241.186)" fill="#12263f"/>
+        <path id="Trazado_1032355" data-name="Trazado 1032355" d="M340.422,290.084A13.088,13.088,0,1,0,327.334,277,13.088,13.088,0,0,0,340.422,290.084Zm-5.789-14.634a2.126,2.126,0,0,1,3.007,0l1.382,1.381,4.182-4.182a2.126,2.126,0,0,1,3.007,3.007l-5.685,5.685a2.126,2.126,0,0,1-3.007,0l-2.885-2.885A2.125,2.125,0,0,1,334.633,275.45Z" transform="translate(-280.935 -172.064)" fill="#12263f"/>
+        <path id="Trazado_1032356" data-name="Trazado 1032356" d="M154.258,63.426H112.727V99.008h27.2a17.282,17.282,0,0,1,4.044-6.337q.435-.435.895-.834h-22.82a2.126,2.126,0,0,1,0-4.252s34.323,0,34.39.01a17.341,17.341,0,0,1,5.615.994V71.222A7.8,7.8,0,0,0,154.258,63.426Zm-23.714,7.128h12.469a2.126,2.126,0,1,1,0,4.252H130.544a2.126,2.126,0,1,1,0-4.252ZM119.922,72.68a2.126,2.126,0,1,1,2.126,2.126A2.126,2.126,0,0,1,119.922,72.68Zm31.134,10.641H122.049a2.126,2.126,0,1,1,0-4.252h29.007a2.126,2.126,0,1,1,0,4.252Z" transform="translate(-96.748 0)" fill="#12263f"/>
+      </g>
+    </g>
+  </g>
+</svg>

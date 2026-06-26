@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+  <g id="Grupo_1188631" data-name="Grupo 1188631" transform="translate(-383.67 -8399.924)">
+    <circle id="Elipse_13890" data-name="Elipse 13890" cx="48" cy="48" r="48" transform="translate(383.67 8399.924)" fill="#5a9ad7"/>
+    <path id="Intersección_1" data-name="Intersección 1" d="M0,47.89A47.893,47.893,0,0,1,79.511,11.92L1.1,58.131A48,48,0,0,1,0,47.89Z" transform="translate(383.779 8400.031)" fill="#19538d"/>
+    <path id="Trazado_1032916" data-name="Trazado 1032916" d="M40,0A40,40,0,1,1,0,40,40,40,0,0,1,40,0Z" transform="translate(391.67 8407.924)" fill="#e6f3ff"/>
+    <g id="ordenador_1_" data-name="ordenador (1)" transform="translate(407.057 8426.232)">
+      <path id="Trazado_1034311" data-name="Trazado 1034311" d="M154.136,150v3.028l-1.058.323a8.791,8.791,0,0,0-3.5,2l-.823.764-2.587-1.5-1.47,2.528,2.587,1.529-.235,1.058a8.735,8.735,0,0,0-.264,2.028h2.94a5.88,5.88,0,0,1,11.759,0h2.94a8.737,8.737,0,0,0-.265-2.028l-.235-1.058,2.587-1.529-1.47-2.528-2.587,1.5-.823-.764a8.793,8.793,0,0,0-3.5-2l-1.058-.323V150Zm0,0" transform="translate(-130.52 -135.301)" fill="#12263f"/>
+      <path id="Trazado_1034312" data-name="Trazado 1034312" d="M155.109,392.94h5.88v2.94H136v-2.94h4.41V390h14.7Zm0,0" transform="translate(-122.673 -351.782)" fill="#12263f"/>
+      <path id="Trazado_1034313" data-name="Trazado 1034313" d="M0,300H50.173v5.88H0Zm0,0" transform="translate(0 -270.602)" fill="#12263f"/>
+      <path id="Trazado_1034314" data-name="Trazado 1034314" d="M0,0V26.458H13.327a10.239,10.239,0,0,1,.118-1.617l-3.293-1.911,4.41-7.644L17.884,17.2a11.293,11.293,0,0,1,2.793-1.587V11.759H29.5V15.61A11.3,11.3,0,0,1,32.289,17.2l3.322-1.911,4.41,7.644-3.292,1.911a10.239,10.239,0,0,1,.118,1.617H50.173V0ZM11.857,14.7H5.978v-2.94h5.88Zm2.94-5.88H5.978V5.88H14.8Zm0,0" fill="#12263f"/>
+      <path id="Trazado_1034315" data-name="Trazado 1034315" d="M226,242.94h5.88a2.94,2.94,0,1,0-5.88,0Zm0,0" transform="translate(-203.853 -216.481)" fill="#12263f"/>
+    </g>
+  </g>
+</svg>

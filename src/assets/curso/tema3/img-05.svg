@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+  <g id="Grupo_1188606" data-name="Grupo 1188606" transform="translate(-383.67 -8399.924)">
+    <circle id="Elipse_13890" data-name="Elipse 13890" cx="48" cy="48" r="48" transform="translate(383.67 8399.924)" fill="#5a9ad7"/>
+    <path id="Intersección_1" data-name="Intersección 1" d="M0,47.89A47.893,47.893,0,0,1,79.511,11.92L1.1,58.131A48,48,0,0,1,0,47.89Z" transform="translate(383.779 8400.031)" fill="#19538d"/>
+    <path id="Trazado_1032916" data-name="Trazado 1032916" d="M40,0A40,40,0,1,1,0,40,40,40,0,0,1,40,0Z" transform="translate(391.67 8407.924)" fill="#e6f3ff"/>
+    <g id="multiple" transform="translate(392.2 8423.639)">
+      <path id="Trazado_1032479" data-name="Trazado 1032479" d="M85.608,305.249H79.25v3.437H97.122V297H85.608Z" transform="translate(-55.34 -262.974)" fill="#12263f"/>
+      <path id="Trazado_1032480" data-name="Trazado 1032480" d="M91.75,75h3.437v3.437H91.75Z" transform="translate(-66.407 -66.407)" fill="#12263f"/>
+      <path id="Trazado_1032481" data-name="Trazado 1032481" d="M62.4,0H16.75V30.589H41.783V18.9H62.4ZM32.159,23.486H21.848V20.049H32.159Zm.057-8.02H21.906V5.156H32.217Zm25.09,0H35.654V12.03H57.307Zm0-6.874H35.654V5.156H57.307Z" transform="translate(0)" fill="#12263f"/>
+      <path id="Trazado_1032482" data-name="Trazado 1032482" d="M325.25,255h3.437v3.437H325.25Z" transform="translate(-273.156 -225.785)" fill="#12263f"/>
+      <path id="Trazado_1032483" data-name="Trazado 1032483" d="M265.25,195v27.152h17.185V195ZM279,215.622H268.687v-3.437H279Zm0-6.874H268.687V198.437H279Z" transform="translate(-220.03 -172.659)" fill="#12263f"/>
+    </g>
+  </g>
+</svg>
