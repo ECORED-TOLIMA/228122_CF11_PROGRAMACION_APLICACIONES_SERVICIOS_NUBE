@@ -56,7 +56,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo <em>web</em>, la arquitectura orientada a servicios y la construcción de APIs.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo  la arquitectura orientada a servicios y la construcción de APIs.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -89,7 +89,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo <em>web</em>, la arquitectura orientada a servicios y la construcción de APIs.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo  la arquitectura orientada a servicios y la construcción de APIs.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -122,7 +122,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo <em>web</em>, la arquitectura orientada a servicios y la construcción de APIs.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo  la arquitectura orientada a servicios y la construcción de APIs.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -155,7 +155,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo <em>web</em>, la arquitectura orientada a servicios y la construcción de APIs.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo  la arquitectura orientada a servicios y la construcción de APIs.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -187,7 +187,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo <em>web</em>, la arquitectura orientada a servicios y la construcción de APIs.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo  la arquitectura orientada a servicios y la construcción de APIs.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -220,7 +220,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo <em>web</em>, la arquitectura orientada a servicios y la construcción de APIs.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo  la arquitectura orientada a servicios y la construcción de APIs.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -253,7 +253,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo <em>web</em>, la arquitectura orientada a servicios y la construcción de APIs.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo  la arquitectura orientada a servicios y la construcción de APIs.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -287,7 +287,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo <em>web</em>, la arquitectura orientada a servicios y la construcción de APIs.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo  la arquitectura orientada a servicios y la construcción de APIs.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -320,7 +320,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo <em>web</em>, la arquitectura orientada a servicios y la construcción de APIs.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo  la arquitectura orientada a servicios y la construcción de APIs.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -352,7 +352,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo <em>web</em>, la arquitectura orientada a servicios y la construcción de APIs.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo  la arquitectura orientada a servicios y la construcción de APIs.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -384,7 +384,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo <em>web</em>, la arquitectura orientada a servicios y la construcción de APIs.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo  la arquitectura orientada a servicios y la construcción de APIs.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -414,7 +414,7 @@ export default {
             { id: 'd', texto: 'No utilizan Internet.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo <em>web</em>, la arquitectura orientada a servicios y la construcción de APIs.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo  la arquitectura orientada a servicios y la construcción de APIs.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -448,7 +448,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo <em>web</em>, la arquitectura orientada a servicios y la construcción de APIs.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo  la arquitectura orientada a servicios y la construcción de APIs.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -477,7 +477,7 @@ export default {
             { id: 'd', texto: 'Un tipo de navegador.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo <em>web</em>, la arquitectura orientada a servicios y la construcción de APIs.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo  la arquitectura orientada a servicios y la construcción de APIs.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -510,7 +510,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo <em>web</em>, la arquitectura orientada a servicios y la construcción de APIs.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo  la arquitectura orientada a servicios y la construcción de APIs.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -543,7 +543,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo <em>web</em>, la arquitectura orientada a servicios y la construcción de APIs.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo  la arquitectura orientada a servicios y la construcción de APIs.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -572,7 +572,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo <em>web</em>, la arquitectura orientada a servicios y la construcción de APIs.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo  la arquitectura orientada a servicios y la construcción de APIs.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -604,7 +604,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo <em>web</em>, la arquitectura orientada a servicios y la construcción de APIs.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo  la arquitectura orientada a servicios y la construcción de APIs.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -636,7 +636,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo <em>web</em>, la arquitectura orientada a servicios y la construcción de APIs.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo  la arquitectura orientada a servicios y la construcción de APIs.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -669,7 +669,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo <em>web</em>, la arquitectura orientada a servicios y la construcción de APIs.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con los fundamentos de Internet, la programación para el desarrollo  la arquitectura orientada a servicios y la construcción de APIs.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
