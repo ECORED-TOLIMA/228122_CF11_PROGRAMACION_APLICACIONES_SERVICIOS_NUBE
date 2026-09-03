@@ -94,7 +94,7 @@
         .cajon.cajon.C02.color-primario.p-4.mb-4
           p.mb-0 Para trabajar de manera eficiente con IDE modernos utilizados en el desarrollo de aplicaciones y APIs, es necesario contar con ciertos requerimientos de #[i hardware] y #[i software] que permitan ejecutar las herramientas de forma fluida, especialmente cuando se utilizan múltiples servicios, bases de datos, navegadores y herramientas de prueba de manera simultánea.
 
-        p A continuación, se presentan los #[b requerimientos de hardware] recomendados. Estos componentes permiten trabajar con IDE modernos de forma fluida:
+        p A continuación, se presentan los #[b requerimientos de <em>hardware</em>] recomendados. Estos componentes permiten trabajar con IDE modernos de forma fluida:
 
         .contenido-interno
           PasosA.color-primario.mb-5(tipo="n")
@@ -121,10 +121,10 @@
                 img(src='@/assets/curso/tema4/img-12.png', alt="")
               .col-lg-6(data-aos="fade-left")
                 h3 Pantalla y resolución
-                p.mb-0 Una resolución de al menos 1920 × 1080 píxeles, facilita la visualización simultánea de múltiples ventanas de código, consolas y herramientas de depuración.
+                p.mb-0 Una resolución de al menos 1920 × 1080 píxeles facilita la visualización simultánea de múltiples ventanas de código, consolas y herramientas de depuración.
 
         .cajon.cajon.C05.p-4(style="border-radius: 50px")
-          p.mb-0.text-center En relación con los #[b requerimientos de software], además del #[i hardware] es necesario disponer de un entorno adecuado que permita instalar y ejecutar las herramientas de desarrollo:
+          p.mb-0.text-center En relación con los #[b requerimientos de <em>software</em>], además del #[i hardware], es necesario disponer de un entorno adecuado que permita instalar y ejecutar las herramientas de desarrollo:
 
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col.col-12

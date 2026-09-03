@@ -116,10 +116,9 @@
 
       .row(titulo="b) JavaScript")
         .col-12.mb-0.mb-md-0
-          p Es uno de los lenguajes de programación más importantes del desarrollo #[i web] moderno. Su función principal es añadir interactividad y dinamismo a las páginas #[i web], permitiendo que respondan a las acciones del usuario. Con JavaScript es posible implementar funciones como:
+          p Es uno de los lenguajes de programación más importantes del desarrollo #[i web] moderno. Su función principal es añadir interactividad y dinamismo a las páginas #[i web], permitiendo que respondan a las acciones del usuario. Algunos ejemplos de etiquetas HTML son:
           .row.justify-content-center
             .col-lg-10.col-12
-              p Algunos ejemplos de etiquetas HTML son:
               .cajon.cajon.C09.p-4.mb-4
                 ul.lista-ul.mb-0
                   li.mb-0
@@ -492,7 +491,7 @@
                 td(style="background-color: #EEF1F7;") Evalúa la condición antes de ejecutar el bloque de instrucciones. El ciclo continúa mientras la condición sea verdadera.
                 td(style="background-color: #EEF1F7;") Procesos cuya repetición depende de una condición.
               tr(data-aos="fade-right")
-                tdr(style="background-color: #FFFF;") #[i do – while]
+                td(style="background-color: #FFFF;") #[i do – while]
                 td(style="background-color: #FFFF;") Ejecuta el bloque de instrucciones al menos una vez y luego evalúa la condición.
                 td(style="background-color: #FFFF;") Procesos que requieren ejecutarse mínimo una vez.
               tr(data-aos="fade-right")

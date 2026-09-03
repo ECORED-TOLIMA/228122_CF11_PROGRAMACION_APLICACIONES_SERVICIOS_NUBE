@@ -165,7 +165,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema3/img-13.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0(data-aos="fade-down") En los servicios REST, cada recurso como un usuario, un producto o una orden se identifica mediante una URL, y las aplicaciones interactúan con estos recursos utilizando métodos estándar del protocolo HTTP, como GET, POST, PUT y DELETE. De esta manera, los servicios REST facilitan la creación de aplicaciones #[i web] flexibles, escalables y fáciles de integrar con distintos tipos de sistemas.
+        p.mb-0(data-aos="fade-down") En los servicios REST, cada recurso, como un usuario, un producto o una orden, se identifica mediante una URL, y las aplicaciones interactúan con estos recursos utilizando métodos estándar del protocolo HTTP, como GET, POST, PUT y DELETE. De esta manera, los servicios REST facilitan la creación de aplicaciones #[i web] flexibles, escalables y fáciles de integrar con distintos tipos de sistemas.
 
     .row.justify-content-center.mb-4(data-aos="fade-right")
       .col-lg-10.col-12
@@ -217,7 +217,7 @@
         .cajon.cajon.C12.p-3
           .row.justify-content-center.align-items-center
             .col.col-lg-6.col-12.order-lg-1.order-2
-              p.mb-0(data-aos="fade-down") En este tipo de arquitectura, es común que cada servicio gestione sus propios datos o recursos de almacenamiento. De esta manera, se reduce la dependencia entre componentes y se permite que cada parte del sistema evolucione de forma independiente. Además, en muchos entornos actuales estas soluciones se implementan sobre infraestructuras en la nube, lo que proporciona mayor disponibilidad, flexibilidad y capacidad de crecimiento según las necesidades del sistema.
+              p.mb-0(data-aos="fade-down") En este tipo de arquitectura, es común que cada servicio gestione sus propios datos o recursos de almacenamiento. De esta manera, se reduce la dependencia entre componentes y se permite que cada parte del sistema evolucione de forma independiente. Además, en muchos entornos actuales, estas soluciones se implementan sobre infraestructuras en la nube, lo que proporciona mayor disponibilidad, flexibilidad y capacidad de crecimiento según las necesidades del sistema.
             .col.col-lg-5.col-8.col-md-5.order-lg-2.order-1.mb-lg-0.mb-3
               figure
                 img(src='@/assets/curso/tema3/img-18v.svg', alt='Imagen decorativa')
@@ -253,7 +253,7 @@ export default {
       {
         titulo: 'Plataformas de análisis de datos',
         texto:
-          'Herramientas como data warehouse o data lakes permiten concentrar grandes cantidades de información para su análisis, generación de reportes e inteligencia de negocio.',
+          'Herramientas como data <em>warehouse</em> o data <em>lakes</em> permiten concentrar grandes cantidades de información para su análisis, generación de reportes e inteligencia de negocio.',
         imagen: require('@/assets/curso/tema3/img-21.png'),
         // leyendaImagen: 'Leyenda_de_la_imagen',
       },

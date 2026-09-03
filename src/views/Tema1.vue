@@ -19,7 +19,7 @@
     .BMG1.px-md-5.px-4
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-10
-          p El desarrollo de Internet es el resultado de múltiples investigaciones realizadas desde la década de 1960, orientadas a mejorar la comunicación entre computadores.
+          p El desarrollo de Internet es el resultado de múltiples investigaciones realizadas desde la década de 1960, orientadas a mejorar la comunicación entre computadoras.
           p.mb-4 Entre los principales aportes históricos se destacan:
           LineaTiempoE.color-acento-contenido
             .row(titulo="1")
@@ -319,7 +319,7 @@
             .col-lg-8
               .titulo-sexto.color-acento-contenido(data-aos="fade-right")
                 h5 Tabla 2.
-                span Puertos de uso frecuente en entornos #[i web]
+                span Protocolos fundamentales para servicios y aplicaciones
               .tabla-a.color-acento-contenido.mb-4
                 table
                   thead

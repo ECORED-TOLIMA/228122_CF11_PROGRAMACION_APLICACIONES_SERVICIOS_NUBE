@@ -103,7 +103,7 @@
     #t_5_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 5.2. Características y tipos de pruebas
 
-    p.mb-4 Para evaluar adecuadamente el funcionamiento de una API no es suficiente realizar una única verificación. Es necesario aplicar diferentes tipos de pruebas que permitan validar la funcionalidad, el rendimiento, la seguridad y la interacción con otros sistemas.
+    p.mb-4 Para evaluar adecuadamente el funcionamiento de una API, no es suficiente realizar una única verificación. Es necesario aplicar diferentes tipos de pruebas que permitan validar la funcionalidad, el rendimiento, la seguridad y la interacción con otros sistemas.
 
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col-lg-10.col-12

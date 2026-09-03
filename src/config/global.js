@@ -272,7 +272,7 @@ export default {
     {
       termino: 'Migración de base de datos',
       significado:
-        'proceso mediante el cual se modifican, trasladan o actualizan estructuras de datos dentro de una base de datos, generalmente mediante scripts controlados que preservan la información existente.',
+        'proceso mediante el cual se modifican, trasladan o actualizan estructuras de datos dentro de una base de datos, generalmente mediante <em>scripts</em> controlados que preservan la información existente.',
     },
     {
       termino: 'ORM (Mapeo objeto-relacional)',
@@ -387,6 +387,11 @@ export default {
     {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
+        {
+          nombre: 'Veimar Celis Meléndez',
+          cargo: 'Desarrollador <em>full stack</em>',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
         {
           nombre: 'Viviana Esperanza Herrera Quiñonez',
           cargo: 'Evaluadora instruccional',
