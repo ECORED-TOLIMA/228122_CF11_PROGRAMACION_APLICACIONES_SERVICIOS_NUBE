@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="130" viewBox="0 0 130 130">
+  <g id="Grupo_1188602" data-name="Grupo 1188602" transform="translate(-186 -9253.862)">
+    <g id="Grupo_1188415" data-name="Grupo 1188415" transform="translate(186 9253.862)">
+      <circle id="Elipse_13890" data-name="Elipse 13890" cx="65" cy="65" r="65" transform="translate(130 130) rotate(180)" fill="#7dbfff"/>
+      <path id="Intersección_3" data-name="Intersección 3" d="M0,61.621,107.4,0A65.086,65.086,0,0,1,43.784,78.57,64.8,64.8,0,0,1,0,61.621Z" transform="translate(21.185 51.43)" fill="#19538d"/>
+      <path id="Trazado_1032950" data-name="Trazado 1032950" d="M54.541,0A54.541,54.541,0,1,1,0,54.541,54.541,54.541,0,0,1,54.541,0Z" transform="translate(119.541 119.518) rotate(180)" fill="#d5f4f8"/>
+      <path id="Intersección_2" data-name="Intersección 2" d="M0,54.575A54.544,54.544,0,0,1,108.536,46.8L20.977,97.592A54.5,54.5,0,0,1,0,54.575Z" transform="translate(10.46 10.435)" fill="#fff"/>
+      <g id="computadora_9_" data-name="computadora (9)" transform="translate(33.418 14.83)">
+        <path id="Trazado_1032357" data-name="Trazado 1032357" d="M111.335,433.119v3.462h-3.193a1.877,1.877,0,1,0,0,3.754h33.721a1.877,1.877,0,1,0,0-3.754H138.67v-3.462Z" transform="translate(-92.967 -360.359)" fill="#12263f"/>
+        <path id="Trazado_1032358" data-name="Trazado 1032358" d="M57.188,350.162a6.89,6.89,0,0,0,6.883-6.883v-.689H0v.689a6.89,6.89,0,0,0,6.883,6.883Z" transform="translate(0 -281.158)" fill="#12263f"/>
+        <path id="Trazado_1032359" data-name="Trazado 1032359" d="M431.741,84.3h10.043V58.529a6.89,6.89,0,0,0-6.883-6.883h-3.161Z" transform="translate(-377.714 -26.622)" fill="#12263f"/>
+        <path id="Trazado_1032360" data-name="Trazado 1032360" d="M10.043,84.3V51.646H6.883A6.89,6.89,0,0,0,0,58.529V84.3Z" transform="translate(0 -26.622)" fill="#12263f"/>
+        <path id="Trazado_1032361" data-name="Trazado 1032361" d="M110.259,57.678h36.475V23.093a1.877,1.877,0,0,0-1.877-1.877H112.136a1.877,1.877,0,0,0-1.877,1.877ZM136.5,48.814H120.493a1.877,1.877,0,0,1,0-3.754H136.5a1.877,1.877,0,0,1,0,3.754Zm0-7.508H120.493a1.877,1.877,0,1,1,0-3.754H136.5a1.877,1.877,0,0,1,0,3.754Zm0-7.508H120.493a1.877,1.877,0,1,1,0-3.754H136.5a1.877,1.877,0,0,1,0,3.754Z" transform="translate(-96.462 0)" fill="#12263f"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="98" height="98" viewBox="0 0 98 98">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="path495" d="M0-682.665H46.42v46.42H0Z" transform="translate(0 682.665)" fill="#12263f"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1188591" data-name="Grupo 1188591" transform="translate(-185.739 -9253.217)">
+    <g id="Grupo_1188415" data-name="Grupo 1188415" transform="translate(185.738 9253.217)">
+      <circle id="Elipse_13890" data-name="Elipse 13890" cx="49" cy="49" r="49" transform="translate(98 98) rotate(180)" fill="#7a4f1e"/>
+      <circle id="Elipse_13891" data-name="Elipse 13891" cx="40.698" cy="40.698" r="40.698" transform="translate(89.429 89.95) rotate(180)" fill="#fff"/>
+      <g id="g489" transform="translate(26.214 708.879)">
+        <g id="g491" transform="translate(0 -682.665)">
+          <g id="g493" transform="translate(0 0)" clip-path="url(#clip-path)">
+            <g id="g499" transform="translate(19.13 21.034)">
+              <path id="path501" d="M0,0V7.706H8.16V0H5.44V3.627a1.36,1.36,0,1,1-2.72,0V0Z" fill="#12263f"/>
+            </g>
+            <path id="path503" d="M281.333-55.92h8.16V-60h-8.16Z" transform="translate(-262.203 102.34)" fill="#12263f"/>
+            <g id="g505" transform="translate(12.33 21.034)">
+              <path id="path507" d="M-186.4-217.467h-5.44a1.36,1.36,0,0,1-1.36-1.36,1.36,1.36,0,0,1,1.36-1.36h5.44a1.36,1.36,0,0,1,1.36,1.36,1.36,1.36,0,0,1-1.36,1.36m4.08-14.506v7.706a1.36,1.36,0,0,1-1.36,1.36h-10.88a1.36,1.36,0,0,1-1.36-1.36v-9.066h-2.72a1.36,1.36,0,0,0-1.36,1.36v22.666a1.36,1.36,0,0,0,1.36,1.36h2.72v-5.44a1.36,1.36,0,0,1,1.36-1.36h10.88a1.36,1.36,0,0,1,1.36,1.36v5.44h2.72a1.36,1.36,0,0,0,1.36-1.36V-227.33a1.36,1.36,0,0,0-.4-.962Z" transform="translate(199.999 233.333)" fill="#12263f"/>
+            </g>
+            <g id="g509" transform="translate(0.091 0)">
+              <path id="path511" d="M-534.143-200.264q.015-.279.015-.558a10.438,10.438,0,0,0-10.426-10.426,10.372,10.372,0,0,0-4.465,1.009,11.354,11.354,0,0,0-9.135-4.635,11.346,11.346,0,0,0-11.333,11.333,11.213,11.213,0,0,0,.432,3.084,9.5,9.5,0,0,0-4.058,7.8,9.53,9.53,0,0,0,9.52,9.52v-9.338a4.08,4.08,0,0,1,4.08-4.08h14.96a2.72,2.72,0,0,1,1.923.8h0l5.042,5.041a4.08,4.08,0,0,1,1.2,2.885v4.7h.907a8.623,8.623,0,0,0,8.613-8.613,8.627,8.627,0,0,0-7.268-8.508" transform="translate(573.113 214.875)" fill="#12263f"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
