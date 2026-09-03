@@ -389,7 +389,7 @@ export default {
       autores: [
         {
           nombre: 'Veimar Celis Meléndez',
-          cargo: 'Desarrollador <em>full stack</em>',
+          cargo: 'Experto temático',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
